@@ -1,0 +1,1 @@
+In this repository I have uploaded the code for the tasks that I have submitted during the GRIP August 2021 program conducted by The Sparks Foundation.
